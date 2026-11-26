@@ -1,6 +1,6 @@
 cask "btmx-focus" do
-  version "1.2.0"
-  sha256 "7a681558c1f497fc0ac247f2b8df5bf5f5f052232183cf24648cf5702080e861"
+  version "1.3.0"
+  sha256 "a0200e82b7dbc1c4375e08ba8b06e85869355fe322e0f48b6773fb85e87bf17b"
 
   url "https://github.com/bytemux/btmx-focus/releases/download/v#{version}/btmx-focus-#{version}.dmg"
   name "btmx-focus"
